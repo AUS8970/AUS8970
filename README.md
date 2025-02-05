@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co.com/Xxn6rWFb/Asad-Ullah-Shamim-Github-Benner.png" alt="Asad-Ullah-Shamim-Github-Benner" border="0">
+<img src="https://github.com/AUS8970/AUS8970/blob/main/Asad%20Ullah%20Shamim%20Github%20Benner.png" alt="Asad-Ullah-Shamim-Github-Benner" border="0">
 
 <h1 align="center"> Hi 👋, I'm Asad Ullah Shamim! </h1>
 <h3 align="center"> A passionate Frontend Developer from Bangladesh </h3>
@@ -24,6 +24,12 @@ I am **Asad Ullah Shamim**, a passionate **Frontend Developer** skilled in **Rea
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, MongoDB**
 - 📫 How to reach me: [Email Me](mailto:aus8970@gmail.com)
 - ⚡ Fun fact: **I think I am Made To Learn!**
+
+## 📊 GitHub Most Used Language 
+
+<div align="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AUS8970&layout=compact&theme=dark" alt="Top langs" />
+</div>
 
 ## 🛠 Skills
 
